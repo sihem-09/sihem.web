@@ -1015,6 +1015,10 @@ section {
     color: var(--accent-hover);
 }
 
+.contact .btn-primary.btn-full{
+    margin-top: 15px;
+}
+
 /* ========== FOOTER ========== */
 .footer {
     background: var(--bg-secondary);
@@ -1293,4 +1297,5 @@ section {
 
 .fade-in {
     animation: fadeIn 0.6s ease-out;
+
 }
